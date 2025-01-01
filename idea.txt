@@ -1,0 +1,15 @@
+I want to build a mobile app that can scan the groceries
+ that you are buying from
+  supermarkets and keep that data like the inspiring date,
+   price and so on stored, and can use a telegram or
+    WhatsApp chat to notify you if something is going bad, 
+    rotten or give monthly statistic on how much was
+     paid for what  and so on,  and on top of that can
+      maybe suggest shopping lists, notifying if we are 
+      going to need something for example for breakfast
+      
+     tomorrow we will need to by milk and bread today.. 
+     like a chatbot that keeps track of all the shopping 
+     and can write the user an email or on
+      watsapp or telegram or any other messaging platform,
+       or email servise and advise them on shoping..
